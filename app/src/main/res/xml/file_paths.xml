@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- مجلد التقارير التي يتم مشاركتها -->
+    <external-files-path name="reports" path="reports/" />
+    <external-files-path name="backups" path="backups/" />
+</paths>

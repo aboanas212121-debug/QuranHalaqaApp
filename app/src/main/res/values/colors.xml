@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- لوحة ألوان هادئة مرتبطة بالتعليم والقرآن: أخضر زُمرّدي داكن + ذهبي فاتح -->
+    <color name="primary_green">#0F6B4E</color>
+    <color name="primary_green_light">#3E9B7A</color>
+    <color name="secondary_gold">#C9A24B</color>
+    <color name="background_cream">#FAF7F0</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="text_dark">#1B2B22</color>
+    <color name="error_red">#B3261E</color>
+    <color name="success_green">#2E7D32</color>
+    <color name="warning_orange">#E08E2C</color>
+</resources>
